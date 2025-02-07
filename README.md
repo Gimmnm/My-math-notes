@@ -12,3 +12,12 @@
 - [Lec6 Group action, simpleness of An](./代数笔记/群论%20庄武谚《代数（一）》Lec1-10/Notes%202025年1月29日%2019_50_13%20Group%20action,%20simpleness%20of%20An.pdf)
 - [Lec7 Sylow theorems](./代数笔记/群论%20庄武谚《代数（一）》Lec1-10/Notes%202025年1月31日%2010_19_23%20Sylow%20theorems.pdf)
 - [Lec8 Sylow theorems & application](./代数笔记/群论%20庄武谚《代数（一）》Lec1-10/Notes%202025年2月1日%2023_06_58%20Sylow%20theorem%20&%20application.pdf)
+- [Lec9 Semidirect products](./代数笔记/群论%20庄武谚《代数（一）》Lec1-10/Notes%202025年2月3日%2015_56_23%20Semidirect%20products.pdf)
+- [Lec10 Structure theorem of finite abelian group](./代数笔记/群论%20庄武谚《代数（一）》Lec1-10/Notes%202025年2月4日%2013_40_29%20Structure%20theorem%20of%20finite%20abelian%20group.pdf)
+
+### 环论部分
+
+- [Lec11 Ring isomorphism theorem](./代数笔记/环论%20庄武谚《代数（一）》Lec11-14/Notes%202025年2月5日%2010_42_33%20Ring%20isomorphism%20theorem.pdf)
+- [Lec12 Chinese Remainder Theorem, Localization](./代数笔记/环论%20庄武谚《代数（一）》Lec11-14/Notes%202025年2月6日%2022_25_56%20Chinese%20Remainder%20Theorem,%20Localization.pdf)
+- [Lec13 ED, PID, UFD](./代数笔记/环论%20庄武谚《代数（一）》Lec11-14/Notes%202025年2月7日%2015_37_15%20ED,%20PID,%20UFD.pdf)
+- [Lec14 Gauss Lemma, Criteria for irreducibility](./代数笔记/环论%20庄武谚《代数（一）》Lec11-14/Notes%202025年2月7日%2017_35_41%20Gauss%20Lemma,%20Criteria%20for%20irreducibility.pdf)

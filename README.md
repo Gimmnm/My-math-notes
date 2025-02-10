@@ -21,3 +21,7 @@
 - [Lec12 Chinese Remainder Theorem, Localization](./代数笔记/环论%20庄武谚《代数（一）》Lec11-14/Notes%202025年2月6日%2022_25_56%20Chinese%20Remainder%20Theorem,%20Localization.pdf)
 - [Lec13 ED, PID, UFD](./代数笔记/环论%20庄武谚《代数（一）》Lec11-14/Notes%202025年2月7日%2015_37_15%20ED,%20PID,%20UFD.pdf)
 - [Lec14 Gauss Lemma, Criteria for irreducibility](./代数笔记/环论%20庄武谚《代数（一）》Lec11-14/Notes%202025年2月7日%2017_35_41%20Gauss%20Lemma,%20Criteria%20for%20irreducibility.pdf)
+
+### 域论部分
+
+- [Lec15 Algebraic extension](./代数笔记/03域论%20庄武彦《代数（一）》Lec15-19/Notes%202025年2月8日%2017_08_43%20Algebraic%20extensions.pdf)

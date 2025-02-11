@@ -25,3 +25,7 @@
 ### 域论部分
 
 - [Lec15 Algebraic extension](./代数笔记/03域论%20庄武彦《代数（一）》Lec15-19/Notes%202025年2月8日%2017_08_43%20Algebraic%20extensions.pdf)
+- [Lec16 Algebraic closure](./代数笔记/03域论%20庄武彦《代数（一）》Lec15-19/Notes%202025年2月9日%2011_03_01%20Algebraic%20closure.pdf)
+- [Lec17 Normal extensions](./代数笔记/03域论%20庄武彦《代数（一）》Lec15-19/Notes%202025年2月11日%2011_19_44%20Normal%20extensions.pdf)
+- [Lec18 Separable extensions](./代数笔记/03域论%20庄武彦《代数（一）》Lec15-19/Notes%202025年2月11日%2016_28_09%20Separable%20extensions.pdf)
+- [Lec19 Primitive element theorem, finite fields](./代数笔记/03域论%20庄武彦《代数（一）》Lec15-19/Notes%202025年2月11日%2021_16_40%20Primitive%20element%20theorem,%20finite%20fields.pdf)

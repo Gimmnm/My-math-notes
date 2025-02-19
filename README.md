@@ -105,6 +105,7 @@ Folland持续读书 一般周一和周四
 #### lbz课程笔记
 
 - [Week1 Lecture1](./实变函数课程笔记/Notes%202025年2月17日%2010_52_19W1L1.pdf)
+- [Week2 Lecture2](./实变函数课程笔记/Notes%202025年2月19日%2007_57_46W1L2.pdf)
 
 #### Folland
 
@@ -113,6 +114,16 @@ Folland持续读书 一般周一和周四
 ---
 
 ### 复变函数
+
+复变函数计划
+
+课程笔记 作业 周四 周五
+
+可能尽早学习Conway Stein qzy
+
+#### wxg课程笔记
+
+- [Week1 Lecture1](./复分析/Notes%202025年2月19日%2013_26_15W1L1.pdf)
 
 #### Conway
 

@@ -91,6 +91,7 @@
 #### zxh课程笔记
 
 - [Week 1 Lecture](./数值线性代数/Notes%202025年2月17日%2013_26_30W1L.pdf)
+- [Week 2 Lecture](./数值线性代数/Notes%202025年2月24日%2013_28_44W2L.pdf)
 
 ---
 
@@ -144,10 +145,14 @@ Folland持续读书 一般周一和周四
 
 配合Docarmo课程 周二周四听课
 
+后期Docarmo 陈维桓刷题
+
 #### 微分几何甲课程笔记
 
 - [Week1 Lecture1](./微分几何甲/Notes%202025年2月18日%2009_50_19%20W1L1.pdf)
-- [Week2 Lecture2](./微分几何甲/Notes%202025年2月20日%2008_00_23%20W2L2.pdf)
+- [Week1 Lecture2](./微分几何甲/Notes%202025年2月20日%2008_00_23%20W1L2.pdf)
+- [Week2 Lecture1](./微分几何甲/Notes%202025年2月25日%2009_52_28%20W2L1.pdf)
+- 
 
 #### Docarmo wbr听课
 

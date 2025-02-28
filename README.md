@@ -134,6 +134,8 @@ Folland持续读书 一般周一和周四
 
 - [Week1 Lecture1](./复分析/Notes%202025年2月19日%2013_26_15W1L1.pdf)
 - [Week1 Lecture2](./复分析/Notes%202025年2月21日%2010_00_54W1L2.pdf)
+- [Week2 Lecture1](./复分析/Notes%202025年2月26日%2013_26_47W2L1.pdf)
+- [Week2 Lecture2](./复分析/Notes%202025年2月28日%2010_01_04W2L2.pdf)
 
 #### Ahlfors
 

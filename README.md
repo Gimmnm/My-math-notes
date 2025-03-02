@@ -93,6 +93,10 @@
 - [Week 1 Lecture](./数值线性代数/Notes%202025年2月17日%2013_26_30W1L.pdf)
 - [Week 2 Lecture](./数值线性代数/Notes%202025年2月24日%2013_28_44W2L.pdf)
 
+#### Code
+
+- [Code](https://github.com/Gimmnm/num-linear-alg)
+
 ---
 
 ### 实变函数

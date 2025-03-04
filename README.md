@@ -92,6 +92,7 @@
 
 - [Week 1 Lecture](./数值线性代数/Notes%202025年2月17日%2013_26_30W1L.pdf)
 - [Week 2 Lecture](./数值线性代数/Notes%202025年2月24日%2013_28_44W2L.pdf)
+- [Week 3 Lecture](./数值线性代数/Notes%202025年3月3日%2020_30_25W3L.pdf)
 
 #### Code
 
@@ -115,6 +116,7 @@ folland
 - [Week1 Lecture2](./实变函数课程笔记/Notes%202025年2月19日%2007_57_46W1L2.pdf)
 - [Week2 Lecture1](./实变函数课程笔记/Notes%202025年2月24日%2009_50_40W2L1.pdf)
 - [Week2 Lecture2](./实变函数课程笔记/Notes%202025年2月26日%2007_59_16W2L2.pdf)
+- [Week3 Lecture1](./实变函数课程笔记/Notes%202025年3月3日%2010_02_02W3L1.pdf)
 
 #### Folland
 
@@ -165,6 +167,7 @@ Ahlfors
 - [Week1 Lecture2](./微分几何甲/Notes%202025年2月20日%2008_00_23%20W1L2.pdf)
 - [Week2 Lecture1](./微分几何甲/Notes%202025年2月25日%2009_52_28%20W2L1.pdf)
 - [Week2 Lecture2](./微分几何甲/Notes%202025年2月27日%2008_06_03%20W2L2.pdf)
+- [Week3 Lecture1](./微分几何甲/Notes%202025年3月4日%2010_01_04%20W3L1.pdf)
 
 #### Docarmo wbr听课
 

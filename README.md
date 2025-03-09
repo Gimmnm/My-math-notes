@@ -117,6 +117,8 @@ folland
 - [Week2 Lecture1](./实变函数课程笔记/Notes%202025年2月24日%2009_50_40W2L1.pdf)
 - [Week2 Lecture2](./实变函数课程笔记/Notes%202025年2月26日%2007_59_16W2L2.pdf)
 - [Week3 Lecture1](./实变函数课程笔记/Notes%202025年3月3日%2010_02_02W3L1.pdf)
+- [Week3 Lecture2](./实变函数课程笔记/Notes%202025年3月5日%2007_58_51%20W3L2.pdf)
+- [Chapter 2](./实变函数课程笔记/Notes%202025年3月5日%2021_00_46.pdf)
 
 #### Folland
 
@@ -146,6 +148,8 @@ Ahlfors
 - [Week1 Lecture2](./复分析/Notes%202025年2月21日%2010_00_54W1L2.pdf)
 - [Week2 Lecture1](./复分析/Notes%202025年2月26日%2013_26_47W2L1.pdf)
 - [Week2 Lecture2](./复分析/Notes%202025年2月28日%2010_01_04W2L2.pdf)
+- [Week3 Lecture1](./复分析/Notes%202025年3月5日%2013_20_30W3L1.pdf)
+- [Week3 Lecture2](./复分析/Notes%202025年3月7日%2010_18_17W3L2.pdf)
 
 #### Ahlfors
 
@@ -168,6 +172,7 @@ Ahlfors
 - [Week2 Lecture1](./微分几何甲/Notes%202025年2月25日%2009_52_28%20W2L1.pdf)
 - [Week2 Lecture2](./微分几何甲/Notes%202025年2月27日%2008_06_03%20W2L2.pdf)
 - [Week3 Lecture1](./微分几何甲/Notes%202025年3月4日%2010_01_04%20W3L1.pdf)
+- [Week3 Lecture2](./微分几何甲/Notes%202025年3月6日%2008_06_47%20W3L2.pdf)
 
 #### Docarmo wbr听课
 
@@ -205,6 +210,7 @@ Ahlfors
 
 - [Lecture1](./jws/Notes%202025年2月19日%2016_15_28.pdf)
 - [Lecture2](./jws/Notes%202025年2月26日%2016_17_20.pdf)
+- [Lecture3](./jws/Notes%202025年3月5日%2016_15_23.pdf)
 
 ---
 

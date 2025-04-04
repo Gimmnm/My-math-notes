@@ -96,10 +96,10 @@
 
 ### 度量空间的几何
 
-- [度量空间 例 基本概念 完备 紧 局部紧 e网 紧的等价条件](./jws/Notes%202025年2月19日%2016_15_28%20度量空间%20例%20基本概念%20完备%20紧%20局部紧%20e网%20紧的等价条件.pdf)
-- [Hausdoff distance 连续函数 length space boundedly compact](./jws/Notes%202025年2月26日%2016_17_20%20Hausdoff%20distance%20连续函数%20length%20space%20boundedly%20compact.pdf)
+- [Metric space examples basic definitions completeness compact local compact e-net](./jws/Notes%202025年2月19日%2016_15_28%20Metric%20space%20examples%20basic%20definitions%20completeness%20compact%20local%20compact%20e-net.pdf)
+- [Hausdoff distance length space boundedly compact](./jws/Notes%202025年2月26日%2016_17_20%20Hausdoff%20distance%20length%20space%20boundedly%20compact.pdf)
 - [Measure Borel measure Caratheodory’s criterion Hausdoff measure dimension](./jws/Notes%202025年3月5日%2016_15_23%20Measure%20Borel%20measure%20Caratheodory’s%20criterion%20Hausdoff%20measure%20dimension.pdf)
-- [Integration Lp空间 Lp可积 积分公式 Vitali covering](./jws/Notes%202025年3月12日%2016_15_13%20Integration%20Lp空间%20Lp可积%20积分公式%20Vitali%20covering%20.pdf)
+- [Integration Lp space Vitali covering](./jws/Notes%202025年3月12日%2016_15_13%20Integration%20Lp%20space%20Vitali%20covering%20.pdf)
 - [Doubling measure maximal-function Rn Sobelev inequality proof one](./jws/Notes%202025年3月19日%2016_16_41%20Doubling%20measure%20maximal-function%20Rn%20Sobelev%20inequality%20proof%20one%20.pdf)
 - [Rn Sobolev inequality proof two Poincare inequality Sobolev space in metric space](./jws/Notes%202025年3月26日%2016_15_47%20Rn%20Sobolev%20inequality%20proof%20two%20Poincare%20inequality%20Sobolev%20space%20in%20metric%20space.pdf)
 

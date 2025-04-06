@@ -85,6 +85,10 @@
 - [活动标架法 外积 外微分 活动标架的无穷小运动方程分量](./微分几何甲/Notes%202025年4月1日%2010_13_16%20W7L1%20活动标架法%20外积%20外微分%20活动标架的无穷小运动方程分量.pdf)
 - [外代数 外微分形式](./微分几何甲/Notes%202025年4月3日%2008_25_31%20W7L2%20外代数%20外微分形式.pdf)
 
+#### Docarmo DFA
+
+- [Chapter 1 Differential forms in Rn](./微分几何甲/Docarmo1/Notes%202025年4月5日%2020_39_27%20Docarmo%20DFA%20Chapter1%20Differential%20forms%20in%20Rn.pdf)
+
 ---
 
 ### GTM097
